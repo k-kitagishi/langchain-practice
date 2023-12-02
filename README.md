@@ -16,6 +16,6 @@
 
 | 章               | 環境                        | Python  | LangChain |
 | ---------------- | --------------------------- | ------- | --------- |
-| 第 3 章〜第 5 章 | Google Colab                | 3.10.12 | 0.0.292   |
-| 第 6 章〜第 8 章 | AWS Cloud9 (Amazon Linux 2) | 3.10.13 | 0.0.292   |
+| chapter3〜chapter5 | Google Colab                | 3.10.12 | 0.0.292   |
+| chapter6〜chapter8 | AWS Cloud9 (Amazon Linux 2) | 3.10.13 | 0.0.292   |
 
