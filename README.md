@@ -4,12 +4,12 @@
 
 | 章                                                                  | Colab                                                                                                                                                                                 |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 第 3 章 ChatGPT を API から利用するために                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yoshidashingo/langchain-book/blob/main/chapter3/notebook.ipynb) |
-| 第 4 章 LangChain の基礎                                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yoshidashingo/langchain-book/blob/main/chapter4/notebook.ipynb) |
-| 第 5 章 LangChain の活用                                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yoshidashingo/langchain-book/blob/main/chapter5/notebook.ipynb) |
-| 第 6 章 外部検索、履歴を踏まえた応答をする Web アプリの実装         | [サンプル](./chapter6/)                                                                                                                                           |
-| 第 7 章 ストリーム形式で履歴を踏まえた応答をする Slack アプリの実装 | [サンプル](./chapter7/)                                                                                                                                           |
-| 第 8 章 社内文書に答える Slack アプリの実装                         | [サンプル](./chapter8/)                                                                                                                                           |
+| chapter3 ChatGPT API                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yoshidashingo/langchain-book/blob/main/chapter3/notebook.ipynb) |
+| chapter4 LangChain                                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yoshidashingo/langchain-book/blob/main/chapter4/notebook.ipynb) |
+| chapter5 LangChain応用                                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yoshidashingo/langchain-book/blob/main/chapter5/notebook.ipynb) |
+| chapter6 外部検索Webアプリ         | [サンプル](./chapter6/)                                                                                                                                           |
+| chapter7 Slack アプリ | [サンプル](./chapter7/)                                                                                                                                           |
+| chapter8 社内文書の応答Slackアプリ                         | [サンプル](./chapter8/)                                                                                                                                           |
 |                                                                     |
 
 ## 動作確認環境
